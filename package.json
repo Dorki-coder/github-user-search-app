@@ -1,5 +1,6 @@
 {
-  "name": "https://Dorki-coder.github.io/GitHub-user-search-app/",
+  "name": "GitHub-user-search-app/",
+  "homepage": "https://Dorki-coder.github.io/GitHub-user-search-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,16 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "dependencies": {
-    "date-fns": "^2.29.3",
-    "moment": "^2.29.4",
-    "react": "^18.2.0",
-    "react-switch": "^7.0.0"
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "sass": "^1.54.5"
   },
   "eslintConfig": {
     "extends": [
