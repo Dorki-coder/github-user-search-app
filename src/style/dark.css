@@ -1,0 +1,28 @@
+#dark h1 {
+  color: #ffffff;
+}
+
+#dark {
+  background-color: #141d2f;
+  color: #ffffff;
+}
+
+#dark .theme__button {
+  color: #ffffff;
+}
+
+#dark ::placeholder {
+  color: #ffffff;
+}
+
+#dark .card {
+  background: #1e2a47;
+}
+
+#dark .card__stats {
+  background: #141d2f;
+}
+
+#dark card__title-date{
+  color: #ffffff
+}

@@ -1,0 +1,39 @@
+#light {
+  background-color: #f6f8ff;
+}
+
+#light .theme__button {
+  color: #2b3442;
+}
+
+#light .input__textArea {
+  color: #222731;
+}
+
+#light .search {
+  background: #fefefe;
+  box-shadow: 0px 16px 30px -10px rgba(70, 96, 187, 0.198567);
+  border-radius: 15px;
+}
+
+#light ::placeholder {
+  color: #4b6a9b;
+}
+
+#light .card {
+  background: #fefefe;
+  box-shadow: 0px 16px 30px -10px rgba(70, 96, 187, 0.198567);
+}
+
+#light .card__stats {
+  background: #f6f8ff;
+}
+
+#light a {
+  text-decoration: none;
+  color: #4b6a9b;
+}
+
+#light .card__title-date {
+  color: #697c9a;
+}
