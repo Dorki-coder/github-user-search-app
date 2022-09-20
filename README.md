@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6/hub/githubusersearchapp-with-react-and-vanilla-css-ProJYRiIgE)
-- Live Site URL: [Add live site URL here](https://dorki-coder.github.io/github-user-search-app/)
+- Solution URL: [URL](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6/hub/githubusersearchapp-with-react-and-vanilla-css-ProJYRiIgE)
+- Live Site URL: [URL](https://dorki-coder.github.io/github-user-search-app/)
 
 ### Built with
 
@@ -46,3 +46,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Dorki-coder](https://www.frontendmentor.io/profile/Dorki-coder)
+- GitHub - [@Dorki-coder]([https://www.frontendmentor.io/profile/Dorki-coder](https://github.com/Dorki-coder))
